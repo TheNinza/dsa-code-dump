@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "vector": "cpp",
+    "utility": "cpp",
+    "algorithm": "cpp",
+    "__config": "cpp",
+    "array": "cpp",
+    "unordered_set": "cpp"
+  },
+  "editor.defaultFormatter": "ms-vscode.cpptools",
+  "editor.tabSize": 4,
+  "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4 }",
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}"
+}
